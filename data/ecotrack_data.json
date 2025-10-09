@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2025-10-08",
+        "activity": "Travelling",
+        "category": "energy",
+        "impact": "positive",
+        "notes": "expenses 10000"
+    },
+    {
+        "date": "2025-10-08",
+        "activity": "Meals",
+        "category": "Food",
+        "impact": "Medium",
+        "notes": "Expenses 3000"
+    },
+    {
+        "date": "2025-10-08",
+        "activity": "Workout",
+        "category": "Energy",
+        "impact": "High",
+        "notes": "Gym"
+    },
+    {
+        "date": "2025-10-08",
+        "activity": "Racing",
+        "category": "Other",
+        "impact": "High",
+        "notes": "Bike"
+    }
+]
