@@ -85,6 +85,6 @@ Cloud backup or sync with Google Sheets
 
 
 
-![WhatsApp Image 2025-10-09 at 14 00 44_bd7728f4](https://github.com/user-attachments/assets/0b6706f7-9607-40ba-a775-fdebfc5476d2)
+
 
 
