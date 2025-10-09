@@ -19,14 +19,6 @@ All user entries are saved locally in a JSON file for persistent tracking.
 
 🎨 Modern User Interface – Uses ttk styling and color themes for a clean, green design.
 
-🧰 Tech Stack
-Component	Purpose
-Python 3.x	Programming language
-Tkinter	GUI framework
-ttk (Themed Tkinter)	For styled widgets
-tkcalendar	Calendar date picker
-Matplotlib	For visual summary charts
-JSON	For data storage
 📁 Project Structure
 EcoTrack/
 │
