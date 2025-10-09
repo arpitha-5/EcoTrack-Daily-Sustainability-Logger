@@ -80,3 +80,7 @@ Add filtering by date range or category
 Display line/bar charts for trends over time
 
 Cloud backup or sync with Google Sheets
+
+
+![WhatsApp Image 2025-10-09 at 13 57 47_e9bfa8fd](https://github.com/user-attachments/assets/f4daaafa-2857-47a2-8fce-f7aa80df27aa)
+
