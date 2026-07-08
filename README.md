@@ -1,4 +1,4 @@
-🌱 EcoTrack – Daily Sustainability Logger
+# 🌱 EcoTrack – Daily Sustainability Logger
 
 EcoTrack is a Python-based desktop application that helps users log, manage, and visualize their daily sustainable activities.
 It is built using Tkinter for the GUI, tkcalendar for date selection, and Matplotlib for generating category-based pie chart summaries.
